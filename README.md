@@ -1,4 +1,7 @@
 Gamer
 =====
 
-gamew
+gamer
+
+By
+Tristian McDowell
